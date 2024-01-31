@@ -31,3 +31,6 @@ body {
     text-wrap: balance;
   }
 }
+.btn-custom-class.shepherd-button {
+  background: red;
+}
